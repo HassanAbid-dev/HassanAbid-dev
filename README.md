@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hassan Abid<br>🎓 Software Engineering Undergrad (4th Semester)<br>💻 MERN Stack Developer | Backend-Focused<br>🚀 I build scalable web applications and focus on modern backend systems.<br>🔧 Tech Stack:<br>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git<br>📚 Currently Learning:<br>Advanced Backend (APIs, Auth, Security), DevOps (AWS, CI/CD), Three.js<br>🧠 Strengths:<br>Data Structures & Algorithms, Problem Solving, REST API Design<br>🎯 Goal:<br>To become a professional Full-Stack Developer building impactful products.
+👋 Hi, I'm Hassan Abid<br>🎓 Software Engineering Undergrad<br>💻 MERN Stack Developer | Backend-Focused<br>🚀 I build scalable web applications and focus on modern backend systems.<br>🔧 Tech Stack:<br>HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, PostgreSQL, Git<br>📚 Currently Learning:<br>Advanced Backend (APIs, Auth, Security), DevOps (AWS, CI/CD), Three.js<br>🧠 Strengths:<br>Data Structures & Algorithms, Problem Solving, REST API Design<br>🎯 Goal:<br>To become a professional Full-Stack Developer building impactful products.
 
 
 ## 🌐 Socials:
